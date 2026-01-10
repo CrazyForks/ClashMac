@@ -29,7 +29,6 @@
   </a>
 </p>
 
-## Preview
 <table>
   <tr>
     <td colspan="2" align="center"><img src="./assets/dashboard.jpg" alt="Dashboard"></td>
