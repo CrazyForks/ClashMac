@@ -1,10 +1,3 @@
-<div align="center">
-
-[English](README.md) | [简体中文](README.zh-CN.md)
-
-</div>
-
-
 <p align="center">
   <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
@@ -103,8 +96,6 @@
 ## System Requirements
 
 **Minimum Version**: macOS 13.5+
-
-> **macOS 12.x Users**: Please continue using [v1.4.24](https://github.com/666OS/ClashMac/releases/tag/v1.4.24), stable and reliable
 
 ## Download
 
