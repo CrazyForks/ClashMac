@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
+  <img src="assets/cat.svg" alt="ClashMac Logo" width="300">
 </p>
 <h1 align="center">ClashMac</h1>
 <h3 align="center" style="margin-top: 0; margin-bottom: 10px;">Native Proxy Experience Built for macOS</h3>
@@ -24,17 +24,16 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center"><img src="./assets/dashboard.jpg" alt="Dashboard"></td>
+    <td colspan="2" align="center"><img src="./assets/dashboard_b.jpg" alt="Dashboard"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="./assets/Route.jpg" alt="Route"></td>
+    <td colspan="2" align="center"><img src="./assets/Route_b.jpg" alt="Route"></td>
   </tr> 
   <tr>
-    <td colspan="2" align="center"><img src="./assets/Topology.jpg" alt="Topology"></td>
+    <td colspan="2" align="center"><img src="./assets/Topology_b.jpg" alt="Topology"></td>
   </tr>
   <tr>
-    <td><img src="./assets/preview_dark.png" alt="Dark"></td>
-    <td><img src="./assets/preview_light.png" alt="Light"></td>
+    <td colspan="2" align="center"><img src="./assets/menu_b.jpg" alt="Menu"></td>
   </tr>
 </table>
 
